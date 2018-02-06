@@ -3,7 +3,7 @@
 
 ' a test module '
 
-__author__ = 'Erichen'
+__author__ = 'Ericooou'
 
 
 import time, functools, sys, random
